@@ -236,10 +236,4 @@ The claim is contradicted by trusted evidence.
 
 GitHub: https://github.com/codewithjoshuah
 
-LinkedIn: *(Add your LinkedIn profile here)*
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+LinkedIn: https://www.linkedin.com/in/joshuah-gnanraj-ba9444316
