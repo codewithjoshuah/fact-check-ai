@@ -25,8 +25,10 @@ I built this project to explore how machine learning and NLP can be used to veri
 
 ```bash
 pip install -r requirements.txt
-python app.py
+python executor.py
 ```
+This is a temporary file I'm using to execute the fact detector
+I'll be using ```app.py``` as the final executor.
 
 Create a `.env` file before running:
 
